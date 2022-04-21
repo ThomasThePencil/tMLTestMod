@@ -1,0 +1,3 @@
+displayName = test mod
+author = ThomasThePencil
+version = 0.1
